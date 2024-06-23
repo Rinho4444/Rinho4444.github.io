@@ -20,10 +20,10 @@ author: Rinho
 ###############################################
 
 navbar-links:
-  About Me: "Rinho la ng ntn?"
+  About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Tài liệu SAT: "https://www.youtube.com/watch?v=2qBlE2-WL60"
+    - Tài liệu Ielts: "https://www.youtube.com/watch?v=vjjFjuf7NBQ"
 
 ################
 # --- Logo --- #
