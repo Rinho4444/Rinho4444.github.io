@@ -2,15 +2,13 @@
 layout: post
 title: Chiến lược tái định vị thương hiệu bằng cách đổi logo
 subtitle: Một trong những chiến lược marketing thú vị
-gh-repo: 
+gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
 author: Rinho
 ---
-
-{: .box-success}
 
 ## Về post này
 Post này chỉ giới thiệu về một nhánh rất nhỏ của [chiến lược tái định vị thương hiệu](https://hbr.edu.vn/tai-dinh-vi-thuong-hieu-la-gi) đó là đổi logo.
